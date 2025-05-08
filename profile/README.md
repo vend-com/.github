@@ -1,0 +1,1 @@
+![Vend logo](./assets/logo.jpg)
