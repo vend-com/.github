@@ -1,1 +1,1 @@
-![Vend logo](./assets/logo.jpg)
+<img src="./assets/logo.svg" width="1024" alt="Vend logo" align="center" />
